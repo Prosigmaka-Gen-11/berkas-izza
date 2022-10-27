@@ -1,0 +1,34 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "izza",
+      "alamat": "trenggalek",
+      "tanggal_lahir": "2008-06-10",
+      "sekolah": "smp1",
+      "gender": "L",
+      "olimpiade": "matematika",
+      "validasi": "setuju"
+    },
+    {
+      "nama": "Ratih",
+      "alamat": "Surabaya",
+      "tanggal_lahir": "2007-01-02",
+      "sekolah": "SMP 1 Surabaya",
+      "gender": "P",
+      "olimpiade": "ipa",
+      "validasi": "tidak",
+      "id": 2
+    },
+    {
+      "nama": "Bambang",
+      "alamat": "Jakarta",
+      "tanggal_lahir": "2009-12-18",
+      "sekolah": "sasas",
+      "gender": "L",
+      "olimpiade": "ips",
+      "validasi": "tidak",
+      "id": 3
+    }
+  ]
+}
