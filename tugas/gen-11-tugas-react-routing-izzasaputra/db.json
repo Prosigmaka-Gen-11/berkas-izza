@@ -1,0 +1,54 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "izza",
+      "alamat": "trenggalek",
+      "tanggal_lahir": "2008-06-10",
+      "sekolah": "SMP 1 Trenggalek",
+      "gender": "L",
+      "olimpiade": "matematika",
+      "validasi": "setuju"
+    },
+    {
+      "nama": "Ratih",
+      "alamat": "Surabaya",
+      "tanggal_lahir": "2007-01-02",
+      "sekolah": "SMP 1 Surabaya",
+      "gender": "P",
+      "olimpiade": "ips",
+      "validasi": "setuju",
+      "id": 2
+    },
+    {
+      "nama": "Bambang",
+      "alamat": "Jakarta",
+      "tanggal_lahir": "2009-12-18",
+      "sekolah": "SMP 26 Jakarta",
+      "gender": "L",
+      "olimpiade": "ips",
+      "validasi": "setuju",
+      "id": 3
+    },
+    {
+      "nama": "Ayu",
+      "alamat": "Palembang",
+      "tanggal_lahir": "2011-06-16",
+      "sekolah": "SMP 1 Palembang",
+      "gender": "P",
+      "olimpiade": "ipa",
+      "validasi": "setuju",
+      "id": 4
+    },
+    {
+      "nama": "Ronaldo",
+      "alamat": "Aceh",
+      "tanggal_lahir": "2011-03-09",
+      "sekolah": "SMP 6 Aceh",
+      "gender": "L",
+      "olimpiade": "ipa",
+      "validasi": "setuju",
+      "id": 5
+    }
+  ]
+}
