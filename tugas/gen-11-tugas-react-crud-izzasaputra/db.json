@@ -7,7 +7,7 @@
       "tanggal_lahir": "2008-06-10",
       "sekolah": "SMP 1 Trenggalek",
       "gender": "L",
-      "olimpiade": "matematika",
+      "olimpiade": "ipa",
       "validasi": "setuju"
     },
     {
@@ -26,8 +26,8 @@
       "tanggal_lahir": "2009-12-18",
       "sekolah": "SMP 26 Jakarta",
       "gender": "L",
-      "olimpiade": "ips",
-      "validasi": "setuju",
+      "olimpiade": "matematika",
+      "validasi": "tidak",
       "id": 3
     },
     {
