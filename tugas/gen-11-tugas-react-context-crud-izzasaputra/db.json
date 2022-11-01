@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "nama": "Izza",
+      "nomor": "08199955652",
+      "alamat": "Trenggalek",
+      "id": 1
+    },
+    {
+      "nama": "Raisa",
+      "nomor": "085777898767",
+      "alamat": "Jakarta",
+      "id": 2
+    },
+    {
+      "nama": "Bambang Pamungkas",
+      "nomor": "0897765432",
+      "alamat": "Bekasi",
+      "id": 3
+    },
+    {
+      "nama": "Bambang Steven",
+      "nomor": "08765592212",
+      "alamat": "Bandung",
+      "id": 4
+    },
+    {
+      "nama": "Lionel Bambang",
+      "nomor": "082345666761",
+      "alamat": "Palembang",
+      "id": 5
+    }
+  ]
+}
