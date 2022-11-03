@@ -1,5 +1,4 @@
 import { useDispatch, useSelector } from "react-redux";
-import { Link, Navigate, useNavigate } from "react-router-dom";
 import { setToken, setUserData } from "./UserSlice";
 
 export default function Home() {
